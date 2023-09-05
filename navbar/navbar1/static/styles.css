@@ -1,0 +1,30 @@
+/* styles.css */
+
+/* Style the navigation menu */
+.navbar {
+    background-color: #008080;
+    color: white;
+    padding: 10px 0;
+    text-align: center;
+}
+
+.nav-list {
+    list-style: none;
+    padding: 0;
+}
+
+.nav-list li {
+    display: inline;
+    margin-right: 20px;
+}
+
+.nav-list li a {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}
+
+/* Style the content area */
+.content {
+    padding: 20px;
+}
